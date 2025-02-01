@@ -23,7 +23,7 @@ We employ two powerful models for fruit classification:
 
 2. **Fine-Tuned VGG Network**: A pre-trained VGG model adapted to our dataset, providing a deeper architecture for enhanced performance.
 
-## Dataset Details
+⌨️## Dataset Details
 
 ### The dataset used in this project is organized into three main folders:
 
@@ -40,7 +40,7 @@ predict: Contains images for which predictions are to be made
 
 ## Results and Insights
 
-### Model Performance
+🤖### Model Performance
 The models' performance metrics are presented below:
 
 
